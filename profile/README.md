@@ -1,5 +1,4 @@
-## ClusterCockpit job-specific cluster-wide monitoring framework
-
+## ClusterCockpit project
 ### What is this all about?
 ClusterCockpit is a set of components to build a job-specific and cluster-wide monitoring solution in HPC data centers.
 
