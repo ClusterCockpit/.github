@@ -1,4 +1,3 @@
-### What is this all about?
 ClusterCockpit is a set of components to build a job-specific and cluster-wide monitoring solution in HPC data centers. It consists of the following components:
 * [cc-backend](https://github.com/ClusterCockpit/cc-backend):  A REST and GraphQL API backend. Also provides web ui. This is the core component of ClusterCockpit.
 * [cc-metric-collector](https://github.com/ClusterCockpit/cc-metric-collector): A node agent to collect and forward metrics.
