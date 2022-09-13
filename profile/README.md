@@ -5,5 +5,4 @@ ClusterCockpit is a set of components to build a job-specific and cluster-wide m
 
 ClusterCockpit follows [standardized specifications](https://github.com/ClusterCockpit/cc-specifications) for data formats and interfaces.
 
-## Funding
-ClusterCockpit is funded within the BMBF GreenHPC EE-HPC project.
+**Funding** ClusterCockpit is funded within the BMBF GreenHPC EE-HPC project.
