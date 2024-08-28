@@ -4,5 +4,5 @@ ClusterCockpit is a set of components to build a job-specific and cluster-wide m
 * [cc-metric-store](https://github.com/ClusterCockpit/cc-metric-store): A metric timeseries in-memory cache.
 
 ClusterCockpit follows [standardized specifications](https://github.com/ClusterCockpit/cc-specifications) for data formats and interfaces.
-
+For more information visit the [ClusterCockpit website](https://clustercockpit.org).
 **Funding** ClusterCockpit is funded within the BMBF GreenHPC EE-HPC project.
