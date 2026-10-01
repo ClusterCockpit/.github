@@ -3,5 +3,5 @@ ClusterCockpit is a set of components to build a job-specific and cluster-wide m
 * [cc-metric-collector](https://github.com/ClusterCockpit/cc-metric-collector): A node agent to collect and forward metrics.
 * [cc-metric-store](https://github.com/ClusterCockpit/cc-metric-store): A metric timeseries in-memory cache.
 
-ClusterCockpit follows standardized specifications](https://github.com/ClusterCockpit/cc-specifications for data formats and interfaces,
+ClusterCockpit follows standardized specifications for data formats and interfaces,
 for details visit the [ClusterCockpit website](https://clustercockpit.org).
